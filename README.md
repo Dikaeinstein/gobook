@@ -1,2 +1,2 @@
 # gobook
-A set of tasks and exercises from the gopl
+A set of tasks, exercises and programs from the gopl
